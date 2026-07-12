@@ -8,11 +8,7 @@ Minecraft 1.21.1 NeoForge Modpack
 
 Language / 語言
 
-🌐
-
-[简体中文](README_ZH-CN.md)
-
-[English](README_EN.md)
+🌐 [简体中文](README_ZH-CN.md)|[English](README_EN.md)
 
 ---
 
