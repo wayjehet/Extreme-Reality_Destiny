@@ -1,3 +1,97 @@
+極致現實：命運走向
+
+世界序章
+
+曾經，人類嚮往擁有各種動物的能力。
+
+他們渴望鳥類翱翔天空的自由，羨慕獵豹奔馳大地的速度，憧憬猛獸強大的力量，也希望能擁有自然生命所具備的特殊能力。
+
+在科技不斷進步的時代，人類開始研究生命的極限。
+
+基因工程、人工進化、生物融合技術逐漸突破曾經無法跨越的界線。
+
+最初，人們只是想模仿自然。
+
+但後來，人類選擇成為自然的一部分。
+
+如今，人類早已與動物融合。
+
+新的生命型態誕生於世界之中。有人擁有野獸般的感官，有人具備飛行生物的特徵，有人能適應極端環境，也有人獲得了超越普通人類的能力。
+
+然而，進化並非沒有代價。
+
+當人類突破自身界線的同時，世界也開始產生變化。
+
+未知的生物出現，失控的實驗留下痕跡，古老的力量逐漸甦醒。科技、自然與未知力量交織在一起，形成了一個前所未有的新時代。
+
+在這個時代，人類不再只是人類。
+
+而你，將決定自己究竟要成為什麼。
+
+是追求科技極限的開拓者？
+
+是守護新世界的戰士？
+
+是探索未知真相的冒險者？
+
+又或者……
+
+成為下一階段生命進化的起點。
+
+這個世界的未來，將由你的選擇決定。
+
+這就是——
+
+極致現實：命運走向。
+
+Extreme Reality: Destiny Path
+
+World Prologue
+
+Once, humanity dreamed of possessing the abilities of various creatures.
+
+They admired the freedom of birds soaring through the sky, the speed of predators running across the land, the strength of beasts, and the extraordinary abilities found within nature itself.
+
+As technology continued to advance, humanity began searching for the limits of life.
+
+Genetic engineering, artificial evolution, and biological fusion technologies gradually broke through boundaries that were once considered impossible.
+
+At first, humans only wanted to imitate nature.
+
+But eventually, humanity chose to become part of nature itself.
+
+Now, humans have already fused with animals.
+
+A new form of life has emerged in the world. Some possess the senses of predators, some inherit traits of flying creatures, some can survive in extreme environments, and others have gained abilities beyond ordinary humans.
+
+However, evolution always comes with a price.
+
+While humanity surpassed its own limits, the world itself began to change.
+
+Unknown creatures appeared, traces of failed experiments remained scattered across the land, and ancient powers that had long been forgotten began to awaken.
+
+Technology, nature, and mysterious forces became intertwined, creating a new era unlike anything humanity had ever known.
+
+In this era, humanity is no longer simply human.
+
+And you will decide what you will become.
+
+Will you become a pioneer who seeks the limits of technology?
+
+A warrior who protects this new world?
+
+An explorer searching for the truth hidden within the unknown?
+
+Or...
+
+The beginning of the next stage of evolution.
+
+The future of this world will be shaped by your choices.
+
+This is—
+
+Extreme Reality: Destiny Path.
+
 ========================================
 
 極致現實：命運走向
