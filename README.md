@@ -10,9 +10,9 @@ Language / 語言
 
 🌐
 
-"简体中文" (README_ZH-CN.md)
+[简体中文](README_ZH-CN.md)
 
-"English" (README_EN.md)
+[English](README_EN.md)
 
 ---
 
