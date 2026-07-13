@@ -1,607 +1,335 @@
 Extreme Reality: Destiny Path
 
-World Prologue
+​World Prologue
 
-Once, humanity dreamed of possessing the abilities of various creatures.
+​Once, humanity dreamed of possessing the abilities of various creatures.
 
-They admired the freedom of birds soaring through the sky, the speed of predators running across the land, the strength of beasts, and the extraordinary abilities found within nature itself.
+​They admired the freedom of birds soaring through the sky, the speed of predators running across the land, the strength of beasts, and the extraordinary abilities found within nature itself.
 
-As technology continued to advance, humanity began searching for the limits of life.
+​As technology continued to advance, humanity began searching for the limits of life.
 
-Genetic engineering, artificial evolution, and biological fusion technologies gradually broke through boundaries that were once considered impossible.
+​Genetic engineering, artificial evolution, and biological fusion technologies gradually broke through boundaries that were once considered impossible.
 
-At first, humans only wanted to imitate nature.
+​At first, humans only wanted to imitate nature.
 
-But eventually, humanity chose to become part of nature itself.
+​But eventually, humanity chose to become part of nature itself.
 
-Now, humans have already fused with animals.
+​Now, humans have already fused with animals.
 
-A new form of life has emerged in the world. Some possess the senses of predators, some inherit traits of flying creatures, some can survive in extreme environments, and others have gained abilities beyond ordinary humans.
+​A new form of life has emerged in the world. Some possess the senses of predators, some inherit traits of flying creatures, some can survive in extreme environments, and others have gained abilities beyond ordinary humans.
 
-However, evolution always comes with a price.
+​However, evolution always comes with a price.
 
-While humanity surpassed its own limits, the world itself began to change.
+​While humanity surpassed its own limits, the world itself began to change.
 
-Unknown creatures appeared, traces of failed experiments remained scattered across the land, and ancient powers that had long been forgotten began to awaken.
+​Unknown creatures appeared, traces of failed experiments remained scattered across the land, and ancient powers that had long been forgotten began to awaken.
 
-Technology, nature, and mysterious forces became intertwined, creating a new era unlike anything humanity had ever known.
+​Technology, nature, and mysterious forces became intertwined, creating a new era unlike anything humanity had ever known.
 
-In this era, humanity is no longer simply human.
+​In this era, humanity is no longer simply human.
 
-And you will decide what you will become.
+​And you will decide what you will become.
 
-Will you become a pioneer who seeks the limits of technology?
+​Will you become a pioneer who seeks the limits of technology?
 
-A warrior who protects this new world?
+​A warrior who protects this new world?
 
-An explorer searching for the truth hidden within the unknown?
+​An explorer searching for the truth hidden within the unknown?
 
-Or...
+​Or...
 
-The beginning of the next stage of evolution.
+​The beginning of the next stage of evolution.
 
-The future of this world will be shaped by your choices.
+​The future of this world will be shaped by your choices.
 
-This is—
+​This is—
 
-Extreme Reality: Destiny Path.
+​Extreme Reality: Destiny Path.
+
+​
 
 ========================================
 
-Extreme Reality: Destiny Path
-
-Created by:
+​Extreme Reality: Destiny Path
+​Created by:
 Extreme Studio
+​Minecraft 1.21.1 NeoForge
+​Release Version List
 
-Minecraft 1.21.1 NeoForge
+​========================================
 
-Release Version List
+​========================================
 
-========================================
+​【Version 1: Standard Edition】
 
+​========================================
 
-========================================
-
-【Version 1: Standard Edition】
-
-========================================
-
-Name:
+​Name:
 Extreme Reality: Destiny Path
-
-Positioning:
+​Positioning:
 Complete Experience Edition
+​Features:
+​Complete character immersion
+​Complete technology, military, adventure, and survival content
+​Supports custom player models
+​========================================
 
-Features:
-- Complete character immersion
-- Complete technology, military, adventure, and survival content
-- Supports custom player models
+​【Core Mods】
 
+​========================================
 
-========================================
-
-【Core Mods】
-
-========================================
-
-Extreme Reality
+​Extreme Reality
 (Extreme Reality)
-
-Developer:
+​Developer:
 Extreme Studio
-
-Dependency:
+​Dependency:
 None
-
-
-Extreme Reality: Aurora Tech Add-on
+​Extreme Reality: Aurora Tech Add-on
 (Extreme Reality: Aurora Technology Add-on)
-
-Developer:
+​Developer:
 Extreme Studio
-
-Dependency:
+​Dependency:
 Extreme Reality
+​========================================
 
+​【Technology / Industry】
 
+​========================================
 
-========================================
-
-【Technology / Industry】
-
-========================================
-
-Mekanism
+​Mekanism
 (Mekanism)
-
-
-Mekanism Generators
+​Mekanism Generators
 (Mekanism: Generators)
-
-Dependency:
+​Dependency:
 Mekanism
-
-
-Mekanism Additions
+​Mekanism Additions
 (Mekanism: Additions)
-
-Dependency:
+​Dependency:
 Mekanism
-
-
-Mekanism Tools
+​Mekanism Tools
 (Mekanism: Tools)
-
-Dependency:
+​Dependency:
 Mekanism
-
-
-Mekanism: Ponder
+​Mekanism: Ponder
 (Mekanism: Ponder)
-
-Dependency:
+​Dependency:
 Mekanism
-
-
-Create
+​Create
 (Create)
-
-
-Sable
+​Sable
 (Sable)
-
-Dependency:
+​Dependency:
 None
-
-
-Create:Aeronautics
+​Create:Aeronautics
 (Create: Aeronautics)
-
-Dependency:
+​Dependency:
 Create
 Sable
-
-
-Immersive Engineering
+​Immersive Engineering
 (Immersive Engineering)
-
-
-Flux Networks
+​Flux Networks
 (Flux Networks)
+​========================================
 
+​【Weapons / Military】
 
+​========================================
 
-========================================
-
-【Weapons / Military】
-
-========================================
-
-TaCZ NeoForge Port
+​TaCZ NeoForge Port
 (Timeless and Classics Zero: NeoForge Edition)
-
-Type:
+​Type:
 TaCZ Core Mod
-
-
-TaCZ Pack Upgrader
+​TaCZ Pack Upgrader
 (Timeless and Classics Zero Pack Format Converter)
-
-Type:
+​Type:
 Pack Format Conversion Tool
-
-Dependency:
+​Dependency:
 TaCZ NeoForge Port
-
-
-[TaCZ] Blue Archive Super Gun Pack
+​[TaCZ] Blue Archive Super Gun Pack
 (Timeless and Classics Zero: Blue Archive Super Gun Pack)
-
-Type:
+​Type:
 Gun Pack
-
-Dependency:
+​Dependency:
 TaCZ NeoForge Port
-
-Note:
+​Note:
 Uses TaCZPU for format conversion
+​========================================
 
+​【Adventure / World】
 
+​========================================
 
-========================================
-
-【Adventure / World】
-
-========================================
-
-When Dungeons Arise
+​When Dungeons Arise
 (When Dungeons Arise)
-
-
-YUNG's Better Dungeons
+​YUNG's Better Dungeons
 (YUNG's Better Dungeons)
-
-Dependency:
+​Dependency:
 YUNG's API
-
-
-Born in Chaos
+​Born in Chaos
 (Born in Chaos)
-
-
-The Twilight Forest
+​The Twilight Forest
 (The Twilight Forest)
+​========================================
 
+​【Magic / Abilities】
 
+​========================================
 
-========================================
-
-【Magic / Abilities】
-
-========================================
-
-Origins NeoForge
+​Origins NeoForge
 (Origins NeoForge)
-
-
-Touhou Little Maid
+​Touhou Little Maid
 (Touhou Little Maid)
-
-
-Apotheosis
+​Apotheosis
 (Apotheosis)
-
-Dependency:
+​Dependency:
 Placebo
+​========================================
 
+​【Farming / Town / Survival】
 
+​========================================
 
-========================================
-
-【Farming / Town / Survival】
-
-========================================
-
-Farmer's Delight
+​Farmer's Delight
 (Farmer's Delight)
-
-
-Kaleidoscope Cookery
+​Kaleidoscope Cookery
 (Kaleidoscope Cookery)
-
-
-Storage Drawers
+​Storage Drawers
 (Storage Drawers)
-
-
-Serene Seasons
+​Serene Seasons
 (Serene Seasons)
-
-Dependency:
+​Dependency:
 GlitchCore
-
-
-Supplementaries
+​Supplementaries
 (Supplementaries)
-
-Dependency:
+​Dependency:
 Moonlight Lib
-
-
-Sophisticated Backpacks
+​Sophisticated Backpacks
 (Sophisticated Backpacks)
-
-Dependency:
+​Dependency:
 Sophisticated Core
-
-
-MineColonies
+​MineColonies
 (MineColonies)
-
-Dependency:
+​Dependency:
 Structurize
 BlockUI
 Domum Ornamentum
 Multi-Piston
 
+​========================================
 
+​【Quest / UI / Tools】
 
-========================================
+​========================================
 
-【Quest / UI / Tools】
-
-========================================
-
-FTB Quests
+​FTB Quests
 (FTB Quests)
-
-Dependency:
+​Dependency:
 FTB Library
-
-
-KubeJS
+​KubeJS
 (KubeJS)
-
-Dependency:
+​Dependency:
 Rhino
-
-
-Patchouli
+​Patchouli
 (Patchouli)
-
-
-REI
+​REI
 (Roughly Enough Items)
-
-
-Jade
+​Jade
 (Jade)
-
-
-AppleSkin
+​AppleSkin
 (AppleSkin)
-
-
-Xaero's Minimap
+​Xaero's Minimap
 (Xaero's Minimap)
+​========================================
 
+​【Combat / Appearance】
 
+​========================================
 
-========================================
-
-【Combat / Appearance】
-
-========================================
-
-Better Combat
+​Better Combat
 (Better Combat)
-
-Dependency:
+​Dependency:
 Cloth Config API
 playerAnimator
-
-
-Cosmetic Armor Reworked
+​Cosmetic Armor Reworked
 (Cosmetic Armor Reworked)
-
-
-Blue Archive Halos - Pyroxene
+​Blue Archive Halos - Pyroxene
 (Blue Archive Halos - Pyroxene)
 
+​========================================
 
-YSM
-(Yes Steve Model)
+​【Performance】
 
-Type:
-Player Model / Animation Expansion
+​========================================
 
-Status:
-Standard Edition Only
-
-
-
-========================================
-
-【Performance】
-
-========================================
-
-FerriteCore
+​FerriteCore
 (FerriteCore)
-
-
-ModernFix
+​ModernFix
 (ModernFix)
-
-
-Entity Culling
+​Entity Culling
 (Entity Culling)
-
-
-ImmediatelyFast
+​ImmediatelyFast
 (ImmediatelyFast)
-
-
-Sodium
+​Sodium
 (Sodium)
-
-Type:
+​Type:
 Rendering / Performance Optimization
-
-Dependency:
+​Dependency:
 None
 
+​========================================
 
+​========================================
 
-========================================
+​【Common Dependencies】
 
+​========================================
 
-========================================
-
-【Version 2: Smooth Edition】
-
-========================================
-
-Name:
-Extreme Reality: Destiny Path -
-
-Positioning:
-Performance Optimized Edition
-
-Goals:
-- Increase FPS
-- Reduce memory usage
-- Suitable for lower-end hardware
-- Suitable for multiplayer servers
-
-
-
-========================================
-
-【Differences From Standard Edition】
-
-========================================
-
-Removed:
-
-YSM
-(Yes Steve Model)
-
-
-Reason:
-- Player model rendering load
-- Animation processing load
-- Reduce client-side pressure
-
-
-
-========================================
-
-【Included Content】
-
-========================================
-
-✓ Extreme Reality
-(Extreme Reality)
-
-
-✓ Aurora Tech Add-on
-(Extreme Reality: Aurora Technology Add-on)
-
-
-✓ Mekanism
-(Mekanism)
-
-
-✓ Create
-(Create)
-
-
-✓ Create:Aeronautics
-(Create: Aeronautics)
-
-
-✓ TaCZ
-(Timeless and Classics Zero)
-
-
-✓ Immersive Engineering
-(Immersive Engineering)
-
-
-✓ MineColonies
-(MineColonies)
-
-
-✓ Twilight Forest
-(The Twilight Forest)
-
-
-✓ Kaleidoscope Cookery
-(Kaleidoscope Cookery)
-
-
-✓ Better Combat
-(Better Combat)
-
-
-✓ All Performance Mods
-
-
-
-========================================
-
-【Common Dependencies】
-
-========================================
-
-YUNG's API
+​YUNG's API
 └── YUNG's Better Dungeons
-
-
-Sophisticated Core
+​Sophisticated Core
 └── Sophisticated Backpacks
-
-
-Moonlight Lib
+​Moonlight Lib
 └── Supplementaries
-
-
-GlitchCore
+​GlitchCore
 └── Serene Seasons
-
-
-Rhino
+​Rhino
 └── KubeJS
-
-
-Placebo
+​Placebo
 └── Apotheosis
-
-
-Structurize
+​Structurize
 └── MineColonies
-
-
-BlockUI
+​BlockUI
 └── MineColonies
-
-
-Domum Ornamentum
+​Domum Ornamentum
 └── MineColonies
-
-
-Multi-Piston
+​Multi-Piston
 └── MineColonies
-
-
-Cloth Config API
+​Cloth Config API
 └── Better Combat
-
-
-playerAnimator
+​playerAnimator
 └── Better Combat
-
-
-FTB Library
+​FTB Library
 └── FTB Quests
+​========================================
 
+​【Performance Mods】
 
+​========================================
 
-========================================
-
-【Performance Mods】
-
-========================================
-
-FerriteCore
+​FerriteCore
 (FerriteCore)
-
-
-ModernFix
+​ModernFix
 (ModernFix)
-
-
-Entity Culling
+​Entity Culling
 (Entity Culling)
-
-
-ImmediatelyFast
+​ImmediatelyFast
 (ImmediatelyFast)
-
-
-Sodium
+​Sodium
 (Sodium)
+​========================================
 
+​极致JiZhi工作室
+​Extreme Studio
+​Extreme Reality Project
 
-
-========================================
-
-极致JiZhi工作室
-
-Extreme Studio
-
-Extreme Reality Project
-
-========================================
-
+​========================================
