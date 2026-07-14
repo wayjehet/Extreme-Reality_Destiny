@@ -2,6 +2,9 @@
 
 # Extreme Reality: Destiny
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-7eb02a)
+![Loader](https://img.shields.io/badge/Loader-NeoForge-007ec6)
+![Studio](https://img.shields.io/badge/Studio-Extreme_Studio-orange)
 
 \
 
