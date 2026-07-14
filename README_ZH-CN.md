@@ -47,20 +47,22 @@ Minecraft版本| 1.21.1
 
 ### 核心与前置
 
-Mod| 中文名称
-Architectury| Architectury架构库
-Cloth Config| Cloth配置库
-Connector| 模组连接器
-Forgified Fabric API| Forge版Fabric API
-FTB Library| FTB核心库
-Geckolib| Gecko动画库
-GlitchCore| Glitch核心
-Moonlight| 月光库
-Patchouli| 魔导手册
-Placebo| Placebo核心
-Prickle| Prickle库
-Rhino| Rhino脚本引擎
-YUNG's API| YUNG API
+| Mod | 中文名称 |
+| :--- | :--- |
+| Architectury | Architectury架构库 |
+| Cloth Config | Cloth配置库 |
+| Connector | 模组连接器 |
+| Forgified Fabric API | Forge版Fabric API |
+| FTB Library | FTB核心库 |
+| Geckolib | Gecko动画库 |
+| GlitchCore | Glitch核心 |
+| Moonlight | 月光库 |
+| Patchouli | 魔导手册 |
+| Placebo | Placebo核心 |
+| Prickle | Prickle库 |
+| Rhino | Rhino脚本引擎 |
+| YUNG's API | YUNG API |
+
 
 ---
 
