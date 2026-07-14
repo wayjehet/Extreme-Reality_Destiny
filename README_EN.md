@@ -1,335 +1,162 @@
-Extreme Reality: Destiny Path
+Extreme Reality: Destiny
 
-​World Prologue
+"Minecraft" (https://img.shields.io/badge/Minecraft-1.21.1-green)
+"Loader" (https://img.shields.io/badge/Loader-NeoForge-blue)
+"Studio" (https://img.shields.io/badge/Studio-Extreme%20Studio-orange)
 
-​Once, humanity dreamed of possessing the abilities of various creatures.
+---
 
-​They admired the freedom of birds soaring through the sky, the speed of predators running across the land, the strength of beasts, and the extraordinary abilities found within nature itself.
+About
 
-​As technology continued to advance, humanity began searching for the limits of life.
+Extreme Reality: Destiny
 
-​Genetic engineering, artificial evolution, and biological fusion technologies gradually broke through boundaries that were once considered impossible.
+is a large-scale Minecraft modpack based on:
 
-​At first, humans only wanted to imitate nature.
+Minecraft 1.21.1 + NeoForge
 
-​But eventually, humanity chose to become part of nature itself.
+Designed with a combination of:
 
-​Now, humans have already fused with animals.
+- ⚔️ Adventure
+- ⚙️ Technology
+- 🏗️ Building
+- 🌎 Exploration
+- 🍲 Survival
+- 📜 Quest Progression
+- 🔫 Enhanced Combat
 
-​A new form of life has emerged in the world. Some possess the senses of predators, some inherit traits of flying creatures, some can survive in extreme environments, and others have gained abilities beyond ordinary humans.
+Created and maintained by:
 
-​However, evolution always comes with a price.
+Extreme Studio｜极致JiZhi工作室
 
-​While humanity surpassed its own limits, the world itself began to change.
+---
 
-​Unknown creatures appeared, traces of failed experiments remained scattered across the land, and ancient powers that had long been forgotten began to awaken.
+Information
 
-​Technology, nature, and mysterious forces became intertwined, creating a new era unlike anything humanity had ever known.
+Category| Details
+Modpack Name| Extreme Reality: Destiny
+Chinese Name| 极致现实：命运走向
+Minecraft Version| 1.21.1
+Mod Loader| NeoForge
+Developer| Extreme Studio
 
-​In this era, humanity is no longer simply human.
+---
 
-​And you will decide what you will become.
+Mod List
 
-​Will you become a pioneer who seeks the limits of technology?
+Core & Libraries
 
-​A warrior who protects this new world?
+Mod| Description
+Architectury| Cross-platform API
+Cloth Config| Configuration Library
+Connector| Mod Compatibility Layer
+Forgified Fabric API| Fabric API for Forge
+FTB Library| FTB Core Library
+GeckoLib| Animation Library
+GlitchCore| Core Library
+Moonlight| Library Framework
+Patchouli| Guide Book System
+Placebo| Library Mod
+Rhino| Script Engine
+YUNG's API| Structure Library
 
-​An explorer searching for the truth hidden within the unknown?
+---
 
-​Or...
+Performance & Utility
 
-​The beginning of the next stage of evolution.
+Mod| Description
+AppleSkin| Food Information Display
+EntityCulling| Entity Rendering Optimization
+FerriteCore| Memory Optimization
+ImmediatelyFast| Rendering Optimization
+Jade| In-game Information Overlay
+ModernFix| Performance Improvements
+Roughly Enough Items| Item Browser
+Sodium| Rendering Optimization
+Xaero's Minimap| Minimap System
 
-​The future of this world will be shaped by your choices.
+---
 
-​This is—
+Combat & Equipment
 
-​Extreme Reality: Destiny Path.
+Mod| Description
+Apotheosis| Advanced RPG Systems
+ApothicAttributes| Attribute Expansion
+ApothicEnchanting| Enchanting Expansion
+ApothicSpawners| Spawner Improvements
+Better Combat| Improved Combat System
+Curios| Accessory Slots
+Origins| Character Origins
+Sophisticated Backpacks| Advanced Backpacks
+Storage Drawers| Storage System
+TACZ| Timeless and Classics Guns
 
-​
+---
 
-========================================
+Technology & Engineering
 
-​Extreme Reality: Destiny Path
-​Created by:
+Mod| Description
+Create| Mechanical Automation
+Create Big Cannons| Large Cannon System
+Create Aeronautics| Aviation Expansion
+Create Diesel Generators| Diesel Power Generation
+Immersive Engineering| Industrial Engineering
+Flux Networks| Energy Network
+Mekanism| Advanced Technology
+Mekanism Generators| Power Generation
+Mekanism Tools| Advanced Tools
+Mekanism Additions| Additional Content
+
+---
+
+Exploration & World Expansion
+
+Mod| Description
+MineColonies| Colony Management
+Twilight Forest| Dimension Adventure
+Dungeons Arise| Dungeon Expansion
+YUNG's Better Dungeons| Improved Dungeons
+Born in Chaos| Hostile Creature Expansion
+Structurize| Structure System
+Domum Ornamentum| Decoration System
+
+---
+
+Food & Survival
+
+Mod| Description
+Farmer's Delight| Farming Expansion
+Kaleidoscope Cookery| Cooking Expansion
+Serene Seasons| Seasonal System
+
+---
+
+Requirements
+
+Recommended:
+
+- Minecraft Java Edition 1.21.1
+- NeoForge Loader
+- Java 21
+- 8GB+ RAM
+
+---
+
+License Notice
+
+All included mods belong to their respective authors.
+
+Extreme Studio does not claim ownership of third-party mods.
+
+This README and modpack are provided for distribution, showcase, and gameplay purposes.
+
+---
+
+Development Team
+
 Extreme Studio
-​Minecraft 1.21.1 NeoForge
-​Release Version List
 
-​========================================
+极致JiZhi工作室
 
-​========================================
+Extreme Reality: Destiny
 
-​【Version 1: Standard Edition】
-
-​========================================
-
-​Name:
-Extreme Reality: Destiny Path
-​Positioning:
-Complete Experience Edition
-​Features:
-​Complete character immersion
-​Complete technology, military, adventure, and survival content
-​Supports custom player models
-​========================================
-
-​【Core Mods】
-
-​========================================
-
-​Extreme Reality
-(Extreme Reality)
-​Developer:
-Extreme Studio
-​Dependency:
-None
-​Extreme Reality: Aurora Tech Add-on
-(Extreme Reality: Aurora Technology Add-on)
-​Developer:
-Extreme Studio
-​Dependency:
-Extreme Reality
-​========================================
-
-​【Technology / Industry】
-
-​========================================
-
-​Mekanism
-(Mekanism)
-​Mekanism Generators
-(Mekanism: Generators)
-​Dependency:
-Mekanism
-​Mekanism Additions
-(Mekanism: Additions)
-​Dependency:
-Mekanism
-​Mekanism Tools
-(Mekanism: Tools)
-​Dependency:
-Mekanism
-​Mekanism: Ponder
-(Mekanism: Ponder)
-​Dependency:
-Mekanism
-​Create
-(Create)
-​Sable
-(Sable)
-​Dependency:
-None
-​Create:Aeronautics
-(Create: Aeronautics)
-​Dependency:
-Create
-Sable
-​Immersive Engineering
-(Immersive Engineering)
-​Flux Networks
-(Flux Networks)
-​========================================
-
-​【Weapons / Military】
-
-​========================================
-
-​TaCZ NeoForge Port
-(Timeless and Classics Zero: NeoForge Edition)
-​Type:
-TaCZ Core Mod
-​TaCZ Pack Upgrader
-(Timeless and Classics Zero Pack Format Converter)
-​Type:
-Pack Format Conversion Tool
-​Dependency:
-TaCZ NeoForge Port
-​[TaCZ] Blue Archive Super Gun Pack
-(Timeless and Classics Zero: Blue Archive Super Gun Pack)
-​Type:
-Gun Pack
-​Dependency:
-TaCZ NeoForge Port
-​Note:
-Uses TaCZPU for format conversion
-​========================================
-
-​【Adventure / World】
-
-​========================================
-
-​When Dungeons Arise
-(When Dungeons Arise)
-​YUNG's Better Dungeons
-(YUNG's Better Dungeons)
-​Dependency:
-YUNG's API
-​Born in Chaos
-(Born in Chaos)
-​The Twilight Forest
-(The Twilight Forest)
-​========================================
-
-​【Magic / Abilities】
-
-​========================================
-
-​Origins NeoForge
-(Origins NeoForge)
-​Touhou Little Maid
-(Touhou Little Maid)
-​Apotheosis
-(Apotheosis)
-​Dependency:
-Placebo
-​========================================
-
-​【Farming / Town / Survival】
-
-​========================================
-
-​Farmer's Delight
-(Farmer's Delight)
-​Kaleidoscope Cookery
-(Kaleidoscope Cookery)
-​Storage Drawers
-(Storage Drawers)
-​Serene Seasons
-(Serene Seasons)
-​Dependency:
-GlitchCore
-​Supplementaries
-(Supplementaries)
-​Dependency:
-Moonlight Lib
-​Sophisticated Backpacks
-(Sophisticated Backpacks)
-​Dependency:
-Sophisticated Core
-​MineColonies
-(MineColonies)
-​Dependency:
-Structurize
-BlockUI
-Domum Ornamentum
-Multi-Piston
-
-​========================================
-
-​【Quest / UI / Tools】
-
-​========================================
-
-​FTB Quests
-(FTB Quests)
-​Dependency:
-FTB Library
-​KubeJS
-(KubeJS)
-​Dependency:
-Rhino
-​Patchouli
-(Patchouli)
-​REI
-(Roughly Enough Items)
-​Jade
-(Jade)
-​AppleSkin
-(AppleSkin)
-​Xaero's Minimap
-(Xaero's Minimap)
-​========================================
-
-​【Combat / Appearance】
-
-​========================================
-
-​Better Combat
-(Better Combat)
-​Dependency:
-Cloth Config API
-playerAnimator
-​Cosmetic Armor Reworked
-(Cosmetic Armor Reworked)
-​Blue Archive Halos - Pyroxene
-(Blue Archive Halos - Pyroxene)
-
-​========================================
-
-​【Performance】
-
-​========================================
-
-​FerriteCore
-(FerriteCore)
-​ModernFix
-(ModernFix)
-​Entity Culling
-(Entity Culling)
-​ImmediatelyFast
-(ImmediatelyFast)
-​Sodium
-(Sodium)
-​Type:
-Rendering / Performance Optimization
-​Dependency:
-None
-
-​========================================
-
-​========================================
-
-​【Common Dependencies】
-
-​========================================
-
-​YUNG's API
-└── YUNG's Better Dungeons
-​Sophisticated Core
-└── Sophisticated Backpacks
-​Moonlight Lib
-└── Supplementaries
-​GlitchCore
-└── Serene Seasons
-​Rhino
-└── KubeJS
-​Placebo
-└── Apotheosis
-​Structurize
-└── MineColonies
-​BlockUI
-└── MineColonies
-​Domum Ornamentum
-└── MineColonies
-​Multi-Piston
-└── MineColonies
-​Cloth Config API
-└── Better Combat
-​playerAnimator
-└── Better Combat
-​FTB Library
-└── FTB Quests
-​========================================
-
-​【Performance Mods】
-
-​========================================
-
-​FerriteCore
-(FerriteCore)
-​ModernFix
-(ModernFix)
-​Entity Culling
-(Entity Culling)
-​ImmediatelyFast
-(ImmediatelyFast)
-​Sodium
-(Sodium)
-​========================================
-
-​极致JiZhi工作室
-​Extreme Studio
-​Extreme Reality Project
-
-​========================================
+"Reality shapes destiny. Choices create the future."
