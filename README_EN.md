@@ -1,227 +1,205 @@
 # Extreme Reality: Destiny
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green)
-![Loader](https://img.shields.io/badge/Loader-NeoForge-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-7eb02a)
+![Loader](https://img.shields.io/badge/Loader-NeoForge-007ec6)
 ![Studio](https://img.shields.io/badge/Studio-Extreme%20Studio-orange)
 
 ---
 
-About
+## About The Modpack
 
-Extreme Reality: Destiny
+**Extreme Reality: Destiny** is a feature-rich, large-scale Minecraft modpack built on **1.21.1 NeoForge**. 
 
-is a large-scale Minecraft modpack based on:
+It seamlessly blends multiple gameplay styles into a cohesive sandbox experience:
 
-Minecraft 1.21.1 + NeoForge
+- ⚔️ **Action & RPG** – Enhanced combat mechanics and character progression.
+- ⚙️ **Industry & Tech** – Automation, machinery, and advanced engineering.
+- 🏗️ **Creative Building** – Vast decorative palettes and colony building.
+- 🌎 **World Exploration** – Immersive world generation, structures, and dimensions.
+- 🍲 **Realistic Survival** – Seasons, farming, and culinary depth.
+- 📜 **Quest System** – Structured progression to guide your journey.
+- 🔫 **Modern Warfare** – Highly customizable, tactical firearm combat.
 
-Designed with a combination of:
-
-- ⚔️ Adventure
-- ⚙️ Technology
-- 🏗️ Building
-- 🌎 Exploration
-- 🍲 Survival
-- 📜 Quest Progression
-- 🔫 Enhanced Combat
-
-Created and maintained by:
-
-Extreme Studio｜极致JiZhi工作室
+Created and maintained by **Extreme Studio (极致JiZhi工作室)**.
 
 ---
 
-Information
+## Technical Information
 
 | Category | Details |
 | :--- | :--- |
-| Modpack Name | Extreme Reality: Destiny |
-| Chinese Name | 极致现实：命运走向 |
-| Minecraft Version | 1.21.1 |
-| Mod Loader| NeoForge |
-| Developer | Extreme Studio |
+| **Modpack Name** | Extreme Reality: Destiny |
+| **Chinese Name** | 极致现实：命运走向 |
+| **Minecraft Version** | 1.21.1 |
+| **Mod Loader** | NeoForge |
+| **Development Team** | Extreme Studio |
 
 ---
 
-Mod List
+## Mod List
 
-## Core & Libraries
+### Core & Libraries
 
 | Mod | Description |
 | :--- | :--- |
-| Architectury | Cross-platform API |
-| Cloth Config | Configuration Library |
-| Connector | Mod Compatibility Layer |
-| Forgified Fabric API | Fabric API for Forge |
-| FTB Library | FTB Core Library |
-| GeckoLib | Animation Library |
-| GlitchCore | Core Library |
-| Moonlight | Library Framework |
-| Patchouli | Guide Book System |
-| Placebo | Library Mod |
-| Rhino | Script Engine |
-| YUNG's API | Structure Library |
+| **Architectury** | Cross-platform modding API |
+| **Cloth Config** | Client-side configuration library |
+| **Connector** | Multi-loader compatibility layer |
+| **Forgified Fabric API** | Fabric API implementation for Forge/NeoForge |
+| **FTB Library** | Core library for FTB mods and UI components |
+| **GeckoLib** | 3D animation engine for entities |
+| **GlitchCore** | Essential library for environmental mods |
+| **Moonlight** | Library framework for interactive features |
+| **Patchouli** | Custom in-game documentation & guidebooks |
+| **Placebo** | Core helper library |
+| **Rhino** | JavaScript engine for advanced scripting |
+| **YUNG's API** | World generation helper library |
 
 ---
 
-## Performance & Utility
+### Performance & Utility
 
 | Mod | Description |
 | :--- | :--- |
-| **AppleSkin** | Food Information Display |
-| **EntityCulling** | Entity Rendering Optimization |
-| **FerriteCore** | Memory Optimization |
-| **ImmediatelyFast** | Rendering Optimization |
-| **Jade** | In-game Information Overlay |
-| **ModernFix** | Performance Improvements |
-| **Roughly Enough Items** | Item Browser |
-| **Sodium** | Rendering Optimization |
-| **Xaero's Minimap** | Minimap System |
+| **AppleSkin** | HUD overlay for food and saturation |
+| **EntityCulling** | Skips rendering invisible entities to boost FPS |
+| **FerriteCore** | Memory usage optimization |
+| **ImmediatelyFast** | Lightweight, high-performance rendering engine |
+| **Jade** | Contextual on-screen tooltips (Waila successor) |
+| **ModernFix** | General performance improvements and bug fixes |
+| **Roughly Enough Items (REI)** | Comprehensive item, recipe, and ingredient browser |
+| **Sodium** | Modern rendering pipeline optimization |
+| **Xaero's Minimap** | Interactive minimap and waypoint system |
 
 ---
 
-## Combat & Equipment
+### Combat & Equipment
 
 | Mod | Description |
 | :--- | :--- |
-| Apotheosis | Advanced RPG Systems |
-| ApothicAttributes | Attribute Expansion |
-| ApothicEnchanting | Enchanting Expansion |
-| ApothicSpawners | Spawner Improvements |
-| Better Combat | Improved Combat System |
-| Curios | Accessory Slots |
-| Origins | Character Origins |
-| Sophisticated Backpacks | Advanced Backpacks |
-| Storage Drawers | Storage System |
-| TACZ | Timeless and Classics Guns |
+| **Apotheosis** | Comprehensive RPG progression and stat overhaul |
+| **Apothic Attributes** | Expanded attribute system for custom stats |
+| **Apothic Enchanting** | Deep, high-tier enchanting system |
+| **Apothic Spawners** | Customizable and upgradeable mob spawners |
+| **Better Combat** | Modern, fluid combat animations and hitboxes |
+| **Curios API** | Expandable accessory and equipment slots |
+| **Origins** | Character class selection and starting traits |
+| **Sophisticated Backpacks** | Upgradable backpacks with utility functions |
+| **Storage Drawers** | Visual, high-density item storage |
+| **TaCZ (Timeless and Classics)** | High-quality tactical firearms with custom animations |
 
 ---
 
-## Technology & Engineering
+### Technology & Engineering
 
 | Mod | Description |
 | :--- | :--- |
-| Create | Mechanical Automation |
-| Create Big Cannons | Large Cannon System |
-| Create Aeronautics | Aviation Expansion |
-| Create Diesel Generators | Diesel Power Generation |
-| Immersive Engineering | Industrial Engineering |
-| Flux Networks | Energy Network |
-| Mekanism | Advanced Technology |
-| Mekanism Generators | Power Generation |
-| Mekanism Tools | Advanced Tools |
-| Mekanism Additions | Additional Content |
+| **Create** | Aesthetic, mechanical rotation-based automation |
+| **Create Big Cannons** | Heavy artillery and defense weaponry |
+| **Create Aeronautics** | Flying machines and aviation physics |
+| **Create Diesel Generators** | Custom fuel-burning power generation |
+| **Immersive Engineering** | Retro-futuristic industrial technology |
+| **Flux Networks** | Wireless, high-capacity energy distribution |
+| **Mekanism** | Multi-tier ore processing and advanced tech |
+| **Mekanism Generators** | Scalable power generation (solar, wind, fusion) |
+| **Mekanism Tools** | High-performance tools and armor |
+| **Mekanism Additions** | Miscellaneous utility blocks and features |
 
 ---
 
-## Exploration & World Expansion
+### Exploration & World Expansion
 
 | Mod | Description |
 | :--- | :--- |
-| MineColonies | Colony Management |
-| Twilight Forest | Dimension Adventure |
-| Dungeons Arise | Dungeon Expansion |
-| YUNG's Better Dungeons | Improved Dungeons |
-| Born in Chaos | Hostile Creature Expansion |
-| Structurize | Structure System |
-| Domum Ornamentum | Decoration System |
-
+| **MineColonies** | Immersive interactive city-building and colony simulation |
+| **Twilight Forest** | Legendary dimension adventure with unique bosses |
+| **Dungeons Arise** | Massive, hostile structures and dungeons |
+| **YUNG's Better Dungeons** | Overhauled vanilla-style dungeons |
+| **Born in Chaos** | Hardcore hostile mobs and dark-fantasy creatures |
+| **Structurize** | Server-friendly schematics and building tool |
+| **Domum Ornamentum** | Unlimited architectural and decorative blocks |
 
 ---
 
-## Food & Survival
+### Food & Survival
 
 | Mod | Description |
 | :--- | :--- |
-| Farmer's Delight | Farming Expansion |
-| Kaleidoscope Cookery | Cooking Expansion |
-| Serene Seasons | Seasonal System |
+| **Farmer's Delight** | Cozy agricultural expansion and expanded meals |
+| **Kaleidoscope Cookery** | Immersive, cultural culinary additions |
+| **Serene Seasons** | Dynamic seasonal cycles with weather changes |
 
 ---
 
 ## System Requirements
 
-### Minimum Configuration
+### Minimum Requirements
 
-> Reference device: vivo V30e performance level  
-> Target: Launch the modpack and provide basic survival gameplay.
+> **Benchmark Reference:** Vivo V30e Performance Equivalent  
+> **Target:** Basic single-player gameplay under optimized settings.
 
-| Category | Minimum |
-|---|---|
-| Operating System | Windows 10 64-bit |
-| CPU | Intel Core i5-6500 / AMD Ryzen 3 1200 |
-| GPU | Intel UHD Graphics 630 / NVIDIA GTX 750 Ti |
-| Memory | 4GB System RAM, allocate 3GB to Minecraft |
-| Storage | 8GB available HDD space |
-| Java | Java 21 |
-| Minecraft | 1.21.1 |
-| Mod Loader | NeoForge |
+| Component | Minimum Specification |
+| :--- | :--- |
+| **OS** | Windows 10 (64-bit) |
+| **CPU** | Intel Core i5-6500 / AMD Ryzen 3 1200 |
+| **GPU** | Intel UHD Graphics 630 / NVIDIA GeForce GTX 750 Ti |
+| **RAM** | 4GB System RAM (Allocate **3GB** to Minecraft) |
+| **Storage** | 8GB available HDD space |
+| **Java** | Java 21 |
+| **Minecraft** | 1.21.1 |
+| **Mod Loader** | NeoForge |
 
-Experience:
-
-- Basic single-player survival
-- Normal world exploration
-- Basic technology and adventure content
-- Large machines, cities, and complex structures may cause performance drops
-
+**Expected Experience:**
+* Smooth single-player survival in early-to-mid game.
+* Normal world exploration with minor terrain-load spikes.
+* Performance drops may occur near massive automated factories, highly populated colonies, or dense dungeon structures.
 
 ---
 
-### Standard Configuration
+### Recommended Requirements
 
-> Recommended for the complete Extreme Reality: Destiny experience.
+> Recommended for the full, uncompromised "Extreme Reality: Destiny" experience.
 
-| Category | Standard |
-|---|---|
-| Operating System | Windows 10 / Windows 11 64-bit |
-| CPU | Intel Core i5-12400 / AMD Ryzen 5 5600 |
-| GPU | NVIDIA GTX 1660 Super / AMD RX 6600 |
-| Memory | 16GB System RAM, allocate 6～8GB to Minecraft |
-| Storage | SSD with 15GB available space |
-| Java | Java 21 |
-| Minecraft | 1.21.1 |
-| Mod Loader | NeoForge |
+| Component | Recommended Specification |
+| :--- | :--- |
+| **OS** | Windows 10 / Windows 11 (64-bit) |
+| **CPU** | Intel Core i5-12400 / AMD Ryzen 5 5600 |
+| **GPU** | NVIDIA GeForce GTX 1660 Super / AMD Radeon RX 6600 |
+| **RAM** | 16GB System RAM (Allocate **6GB to 8GB** to Minecraft) |
+| **Storage** | 15GB available SSD space |
+| **Java** | Java 21 |
+| **Minecraft** | 1.21.1 |
+| **Mod Loader** | NeoForge |
 
-Experience:
-
-- Stable gameplay with the complete modpack
-- Smooth Create automation
-- Full Mekanism technology systems
-- MineColonies city development
-- Multiplayer friendly
+**Expected Experience:**
+* Highly stable gameplay with smooth framerates.
+* Fully automated *Create* factories and intensive *Mekanism* processing lines.
+* Smooth rendering of thriving *MineColonies* settlements.
+* Excellent performance for multiplayer/co-op servers.
 
 ---
 
-### Configuration Notes
+### Hardware Notes
 
-This modpack includes:
-
-- Create mechanical automation
-- Mekanism advanced technology
-- MineColonies colony simulation
-- Twilight Forest dimension expansion
-- Dungeons Arise structures
-- TACZ firearm system
-
-Actual requirements may increase depending on world size, automation scale, and multiplayer usage.
+Because this modpack features complex world-generation, advanced physics (*Create* / *Aeronautics*), AI-driven colonists (*MineColonies*), and detailed firearm rendering (*TaCZ*), hardware demands will scale dynamically with:
+* The size and complexity of your automated factories.
+* The number of active chunkloaders.
+* Server-side multiplayer load.
 
 ---
 
-License Notice
+## License & Credits
 
-All included mods belong to their respective authors.
-
-Extreme Studio does not claim ownership of third-party mods.
-
-This README and modpack are provided for distribution, showcase, and gameplay purposes.
+* All included mods belong to their respective authors and creators.
+* **Extreme Studio** does not claim ownership over any third-party mods included in this package.
+* This modpack and its README are distributed purely for entertainment, showcase, and gameplay purposes.
 
 ---
 
-Development Team
+## Development Team
 
-Extreme Studio
+**Extreme Studio** (极致JiZhi工作室)
 
-极致JiZhi工作室
+*Extreme Reality: Destiny*
 
-Extreme Reality: Destiny
-
-"Reality shapes destiny. Choices create the future."
+> *"Reality shapes destiny. Choices create the future."*
