@@ -85,57 +85,61 @@ Extreme Studio｜极致JiZhi工作室
 
 ### 战斗与装备
 
-Mod| 中文名称
-Apotheosis| 神化
-ApothicAttributes| 神化属性
-ApothicEnchanting| 神化附魔
-ApothicSpawners| 神化刷怪笼
-Better Combat| 更好的战斗
-Cosmetic Armor Reworked| 外观护甲
-Curios| 饰品栏
-Enchantment Descriptions| 附魔描述
-Origins| 起源
-Sophisticated Backpacks| 精致背包
-Storage Drawers| 储物抽屉
-TACZ| 永恒枪械工坊 TaCZ
+| Mod | 中文名称 |
+| :--- | :--- |
+| Apotheosis | 神化 |
+| ApothicAttributes | 神化属性 |
+| ApothicEnchanting | 神化附魔 |
+| ApothicSpawners | 神化刷怪笼 |
+| Better Combat | 更好的战斗 |
+| Cosmetic Armor Reworked | 外观护甲 |
+| Curios | 饰品栏 |
+| Enchantment Descriptions | 附魔描述 |
+| Origins | 起源 |
+| Sophisticated Backpacks | 精致背包 |
+| Storage Drawers | 储物抽屉 |
+| TACZ | 永恒枪械工坊 TaCZ |
 
 ---
 
 ### 科技与工程
 
-Mod| 中文名称
-Create| Create机械动力
-Create Big Cannons| Create巨型炮
-Create Aeronautics| Create航空
-Create Diesel Generators| Create柴油发电机
-Immersive Engineering| 沉浸工程
-Flux Networks| 通量网络
-Mekanism| 通用机械
-Mekanism Generators| 通用机械发电
-Mekanism Tools| 通用机械工具
-Mekanism Additions| 通用机械扩展
+| Mod | 中文名称 |
+| :--- | :--- |
+| Create | Create机械动力 |
+| Create Big Cannons | Create巨型炮 |
+| Create Aeronautics | Create航空 |
+| Create Diesel Generators | Create柴油发电机 |
+| Immersive Engineering | 沉浸工程 |
+| Flux Networks | 通量网络 |
+| Mekanism | 通用机械 |
+| Mekanism Generators | 通用机械发电 |
+| Mekanism Tools | 通用机械工具 |
+| Mekanism Additions | 通用机械扩展 |
 
 ---
 
 ### 建筑与世界内容
 
-Mod| 中文名称
-MineColonies| 我的殖民地
-Twilight Forest| 暮色森林
-Dungeons Arise| 地牢崛起
-YUNG's Better Dungeons| YUNG更好的地牢
-Born in Chaos| 生于混沌
-Structurize| 结构化
-Domum Ornamentum| 家园装饰
+| Mod | 中文名称 |
+| :--- | :--- |
+| MineColonies | 我的殖民地 |
+| Twilight Forest | 暮色森林 |
+| Dungeons Arise | 地牢崛起 |
+| YUNG's Better Dungeons | YUNG更好的地牢 |
+| Born in Chaos | 生于混沌 |
+| Structurize | 结构化 |
+| Domum Ornamentum | 家园装饰 |
 
 ---
 
 ### 食物与生活
 
-Mod| 中文名称
-Farmer's Delight| 农夫乐事
-Kaleidoscope Cookery| 森羅物語：廚房
-Serene Seasons| 宁静四季
+| Mod | 中文名称 |
+| :--- | :--- |
+| Farmer's Delight | 农夫乐事 |
+| Kaleidoscope Cookery | 森羅物語：廚房 |
+| Serene Seasons | 宁静四季 |
 
 ---
 
