@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-7eb02a)
 ![Loader](https://img.shields.io/badge/Loader-NeoForge-007ec6)
-![Studio](https://img.shields.io/badge/Studio-Extreme_Studio-orange)
+![Studio](https://img.shields.io/badge/Studio-极致JiZhi工作室-orange)
 
 \
 
