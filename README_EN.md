@@ -1,8 +1,8 @@
 Extreme Reality: Destiny
 
-[Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green)
-[Loader](https://img.shields.io/badge/Loader-NeoForge-blue)
-[Studio](https://img.shields.io/badge/Studio-Extreme%20Studio-orange)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green)
+![Loader](https://img.shields.io/badge/Loader-NeoForge-blue)
+![Studio](https://img.shields.io/badge/Studio-Extreme%20Studio-orange)
 
 ---
 
