@@ -69,16 +69,17 @@ Extreme Studio｜极致JiZhi工作室
 
 ### 性能优化与辅助
 
-Mod| 中文名称
-AppleSkin| 苹果皮
-EntityCulling| 实体剔除
-FerriteCore| 内存优化核心
-ImmediatelyFast| 渲染优化
-Jade| 信息显示
-ModernFix| 现代优化修复
-Roughly Enough Items| 足够多的物品
-Sodium| 钠优化
-Xaero's Minimap| Xaero小地图
+| Mod (模組) | 中文名稱 |
+| :--- | :--- |
+| AppleSkin | 蘋果皮 |
+| EntityCulling | 實體剔除 |
+| FerriteCore | 記憶體優化核心 |
+| ImmediatelyFast | 渲染優化 |
+| Jade | 資訊顯示 |
+| ModernFix | 現代優化修復 |
+| Roughly Enough Items | 足夠多的物品 |
+| Sodium | 鈉優化 |
+| Xaero's Minimap | Xaero小地圖 |
 
 ---
 
