@@ -1,4 +1,4 @@
-Extreme Reality: Destiny
+# Extreme Reality: Destiny
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green)
 ![Loader](https://img.shields.io/badge/Loader-NeoForge-blue)
@@ -32,63 +32,67 @@ Extreme Studio｜极致JiZhi工作室
 
 Information
 
-Category| Details
-Modpack Name| Extreme Reality: Destiny
-Chinese Name| 极致现实：命运走向
-Minecraft Version| 1.21.1
-Mod Loader| NeoForge
-Developer| Extreme Studio
+| Category | Details |
+| :--- | :--- |
+| Modpack Name | Extreme Reality: Destiny |
+| Chinese Name | 极致现实：命运走向 |
+| Minecraft Version | 1.21.1 |
+| Mod Loader| NeoForge |
+| Developer | Extreme Studio |
 
 ---
 
 Mod List
 
-Core & Libraries
+# Core & Libraries
 
-Mod| Description
-Architectury| Cross-platform API
-Cloth Config| Configuration Library
-Connector| Mod Compatibility Layer
-Forgified Fabric API| Fabric API for Forge
-FTB Library| FTB Core Library
-GeckoLib| Animation Library
-GlitchCore| Core Library
-Moonlight| Library Framework
-Patchouli| Guide Book System
-Placebo| Library Mod
-Rhino| Script Engine
-YUNG's API| Structure Library
-
----
-
-Performance & Utility
-
-Mod| Description
-AppleSkin| Food Information Display
-EntityCulling| Entity Rendering Optimization
-FerriteCore| Memory Optimization
-ImmediatelyFast| Rendering Optimization
-Jade| In-game Information Overlay
-ModernFix| Performance Improvements
-Roughly Enough Items| Item Browser
-Sodium| Rendering Optimization
-Xaero's Minimap| Minimap System
+| Mod | Description |
+| :--- | :--- |
+| Architectury | Cross-platform API |
+| Cloth Config | Configuration Library |
+| Connector | Mod Compatibility Layer |
+| Forgified Fabric API | Fabric API for Forge |
+| FTB Library | FTB Core Library |
+| GeckoLib | Animation Library |
+| GlitchCore | Core Library |
+| Moonlight | Library Framework |
+| Patchouli | Guide Book System |
+| Placebo | Library Mod |
+| Rhino | Script Engine |
+| YUNG's API | Structure Library |
 
 ---
 
-Combat & Equipment
+# Performance & Utility
 
-Mod| Description
-Apotheosis| Advanced RPG Systems
-ApothicAttributes| Attribute Expansion
-ApothicEnchanting| Enchanting Expansion
-ApothicSpawners| Spawner Improvements
-Better Combat| Improved Combat System
-Curios| Accessory Slots
-Origins| Character Origins
-Sophisticated Backpacks| Advanced Backpacks
-Storage Drawers| Storage System
-TACZ| Timeless and Classics Guns
+| Mod | Description |
+| :--- | :--- |
+| **AppleSkin** | Food Information Display |
+| **EntityCulling** | Entity Rendering Optimization |
+| **FerriteCore** | Memory Optimization |
+| **ImmediatelyFast** | Rendering Optimization |
+| **Jade** | In-game Information Overlay |
+| **ModernFix** | Performance Improvements |
+| **Roughly Enough Items** | Item Browser |
+| **Sodium** | Rendering Optimization |
+| **Xaero's Minimap** | Minimap System |
+
+---
+
+# Combat & Equipment
+
+| Mod | Description |
+| :--- | :--- |
+| Apotheosis | Advanced RPG Systems |
+| ApothicAttributes | Attribute Expansion |
+| ApothicEnchanting | Enchanting Expansion |
+| ApothicSpawners | Spawner Improvements |
+| Better Combat | Improved Combat System |
+| Curios | Accessory Slots |
+| Origins | Character Origins |
+| Sophisticated Backpacks | Advanced Backpacks |
+| Storage Drawers | Storage System |
+| TACZ | Timeless and Classics Guns |
 
 ---
 
