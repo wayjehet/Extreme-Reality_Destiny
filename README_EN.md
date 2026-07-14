@@ -138,14 +138,71 @@ Mod List
 
 ---
 
-Requirements
+## System Requirements
 
-Recommended:
+### Minimum Configuration
 
-- Minecraft Java Edition 1.21.1
-- NeoForge Loader
-- Java 21
-- 8GB+ RAM
+> Reference device: vivo V30e performance level  
+> Target: Launch the modpack and provide basic survival gameplay.
+
+| Category | Minimum |
+|---|---|
+| Operating System | Windows 10 64-bit |
+| CPU | Intel Core i5-6500 / AMD Ryzen 3 1200 |
+| GPU | Intel UHD Graphics 630 / NVIDIA GTX 750 Ti |
+| Memory | 4GB System RAM, allocate 3GB to Minecraft |
+| Storage | 8GB available HDD space |
+| Java | Java 21 |
+| Minecraft | 1.21.1 |
+| Mod Loader | NeoForge |
+
+Experience:
+
+- Basic single-player survival
+- Normal world exploration
+- Basic technology and adventure content
+- Large machines, cities, and complex structures may cause performance drops
+
+
+---
+
+### Standard Configuration
+
+> Recommended for the complete Extreme Reality: Destiny experience.
+
+| Category | Standard |
+|---|---|
+| Operating System | Windows 10 / Windows 11 64-bit |
+| CPU | Intel Core i5-12400 / AMD Ryzen 5 5600 |
+| GPU | NVIDIA GTX 1660 Super / AMD RX 6600 |
+| Memory | 16GB System RAM, allocate 6～8GB to Minecraft |
+| Storage | SSD with 15GB available space |
+| Java | Java 21 |
+| Minecraft | 1.21.1 |
+| Mod Loader | NeoForge |
+
+Experience:
+
+- Stable gameplay with the complete modpack
+- Smooth Create automation
+- Full Mekanism technology systems
+- MineColonies city development
+- Multiplayer friendly
+
+---
+
+### Configuration Notes
+
+This modpack includes:
+
+- Create mechanical automation
+- Mekanism advanced technology
+- MineColonies colony simulation
+- Twilight Forest dimension expansion
+- Dungeons Arise structures
+- TACZ firearm system
+
+Actual requirements may increase depending on world size, automation scale, and multiplayer usage.
 
 ---
 
