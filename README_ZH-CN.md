@@ -1,443 +1,222 @@
-极致现实：命运走向
+# 极致现实：命运走向
 
-世界序章
+# Extreme Reality: Destiny
 
-曾经，人类向往拥有各种动物的能力。
 
-他们渴望鸟类翱翔天空的自由，羡慕猎豹奔驰大地的速度，憧憬猛兽强大的力量，也希望能拥有自然生命所具备的特殊能力。
+\
 
-在科技不断进步的时代，人类开始研究生命的极限。
+关于本整合包
 
-基因工程、人工进化、生物融合技术逐渐突破曾经无法跨越的界线。
+极致现实：命运走向（Extreme Reality: Destiny）
 
-最初，人们只是想模仿自然。
+是一款基于 Minecraft 1.21.1 NeoForge 制作的大型综合型整合包。
 
-但后来，人类选择成为自然的一部分。
+本整合包融合：
 
-如今，人类早已与动物融合。
+- ⚔️ 冒险探索
+- ⚙️ 工业科技
+- 🏗️ 建筑创造
+- 🌎 世界扩展
+- 🍲 生存体验
+- 📜 任务系统
+- 🔫 战斗强化
 
-新的生命型态诞生于世界之中。有人拥有野兽般的感官，有人具备飞行生物的特征，有人能适应极端环境，也有人获得了超越普通人类的能力。
+由：
 
-然而，进化并非没有代价。
+Extreme Studio｜极致JiZhi工作室
 
-当人类突破自身界线的同时，世界也开始产生变化。
+制作与维护。
 
-未知的生物出现，失控的实验留下痕迹，古老的力量逐渐苏醒。科技、自然与未知力量交织在一起，形成了一个前所未有的新时代。
+---
 
-在这个时代，人类不再只是人类。
+基本信息
 
-而你，将决定自己究竟要成为什么。
+项目| 内容
+整合包名称| 极致现实：命运走向
+英文名称| Extreme Reality: Destiny
+Minecraft版本| 1.21.1
+模组平台| NeoForge
+制作团队| Extreme Studio｜极致JiZhi工作室
 
-是追求科技极限的开拓者？
+---
 
-是守护新世界的战士？
+## 模组列表
 
-是探索未知真相的冒险者？
+### 核心与前置
 
-又或者……
+Mod| 中文名称
+Architectury| Architectury架构库
+Cloth Config| Cloth配置库
+Connector| 模组连接器
+Forgified Fabric API| Forge版Fabric API
+FTB Library| FTB核心库
+Geckolib| Gecko动画库
+GlitchCore| Glitch核心
+Moonlight| 月光库
+Patchouli| 魔导手册
+Placebo| Placebo核心
+Prickle| Prickle库
+Rhino| Rhino脚本引擎
+YUNG's API| YUNG API
 
-成为下一阶段生命进化的起点。
+---
 
-这个世界的未来，将由你的选择决定。
+### 性能优化与辅助
 
-这就是——
+Mod| 中文名称
+AppleSkin| 苹果皮
+EntityCulling| 实体剔除
+FerriteCore| 内存优化核心
+ImmediatelyFast| 渲染优化
+Jade| 信息显示
+ModernFix| 现代优化修复
+Roughly Enough Items| 足够多的物品
+Sodium| 钠优化
+Xaero's Minimap| Xaero小地图
 
-极致现实：命运走向。
+---
 
-========================================
+### 战斗与装备
 
-极致现实：命运走向
+Mod| 中文名称
+Apotheosis| 神化
+ApothicAttributes| 神化属性
+ApothicEnchanting| 神化附魔
+ApothicSpawners| 神化刷怪笼
+Better Combat| 更好的战斗
+Cosmetic Armor Reworked| 外观护甲
+Curios| 饰品栏
+Enchantment Descriptions| 附魔描述
+Origins| 起源
+Sophisticated Backpacks| 精致背包
+Storage Drawers| 储物抽屉
+TACZ| 永恒枪械工坊 TaCZ
 
-制作：
+---
+
+### 科技与工程
+
+Mod| 中文名称
+Create| Create机械动力
+Create Big Cannons| Create巨型炮
+Create Aeronautics| Create航空
+Create Diesel Generators| Create柴油发电机
+Immersive Engineering| 沉浸工程
+Flux Networks| 通量网络
+Mekanism| 通用机械
+Mekanism Generators| 通用机械发电
+Mekanism Tools| 通用机械工具
+Mekanism Additions| 通用机械扩展
+
+---
+
+### 建筑与世界内容
+
+Mod| 中文名称
+MineColonies| 我的殖民地
+Twilight Forest| 暮色森林
+Dungeons Arise| 地牢崛起
+YUNG's Better Dungeons| YUNG更好的地牢
+Born in Chaos| 生于混沌
+Structurize| 结构化
+Domum Ornamentum| 家园装饰
+
+---
+
+### 食物与生活
+
+Mod| 中文名称
+Farmer's Delight| 农夫乐事
+Kaleidoscope Cookery| 森羅物語：廚房
+Serene Seasons| 宁静四季
+
+---
+
+## 系统配置要求
+
+### 最低配置（Minimum）
+
+> 参考设备：vivo V30e 性能等级  
+> 目标：能够启动整合包并进行基础生存体验。
+
+| 项目 | 最低配置 |
+|---|---|
+| 操作系统 | Windows 10 64-bit |
+| CPU | Intel Core i5-6500 / AMD Ryzen 3 1200 |
+| GPU | Intel UHD Graphics 630 / NVIDIA GTX 750 Ti |
+| 内存 | 4GB 系统内存，分配 3GB 给 Minecraft |
+| 存储 | HDD 可用空间 8GB |
+| Java | Java 21 |
+| Minecraft | 1.21.1 |
+| 模组加载器 | NeoForge |
+
+体验：
+
+- 可进行单人生存
+- 可探索普通世界区域
+- 可体验基础科技与冒险内容
+- 大型机械、城市、复杂结构可能出现卡顿
+
+
+---
+
+### 标准配置（Standard）
+
+> 推荐用于完整体验「极致现实：命运走向」。
+
+| 项目 | 标准配置 |
+|---|---|
+| 操作系统 | Windows 10 / Windows 11 64-bit |
+| CPU | Intel Core i5-12400 / AMD Ryzen 5 5600 |
+| GPU | NVIDIA GTX 1660 Super / AMD RX 6600 |
+| 内存 | 16GB 系统内存，分配 6～8GB 给 Minecraft |
+| 存储 | SSD 可用空间 15GB |
+| Java | Java 21 |
+| Minecraft | 1.21.1 |
+| 模组加载器 | NeoForge |
+
+体验：
+
+- 稳定游玩完整整合包内容
+- 流畅运行 Create 自动化
+- 支持 Mekanism 工业系统
+- 支持 MineColonies 城镇发展
+- 适合多人游戏
+
+---
+
+### 配置说明
+
+本整合包包含：
+
+- Create 机械动力
+- Mekanism 通用机械
+- MineColonies 我的殖民地
+- Twilight Forest 暮色森林
+- Dungeons Arise 地牢崛起
+- TACZ 枪械系统
+
+由于包含大量机器、生物、结构生成内容，实际需求会根据世界规模提高。
+
+---
+
+版权声明
+
+本整合包中的所有 Mod：
+
+- 属于各自作者所有
+- Extreme Studio不拥有第三方Mod版权
+
+本项目仅用于整合包发布、展示与游玩。
+
+---
+
+制作团队
+
+Extreme Studio
+
 极致JiZhi工作室
 
-Minecraft 1.21.1 NeoForge
+Extreme Reality: Destiny
 
-
-发布版本列表
-
-========================================
-
-
-========================================
-
-【版本一：标准版】
-
-========================================
-
-名称：
-极致现实：命运走向
-
-定位：
-完整体验版
-
-特色：
-- 完整角色沉浸
-- 完整科技、军事、冒险、生存内容
-- 支持玩家自订模型
-
-
-========================================
-
-【核心模组】
-
-========================================
-
-Extreme Reality
-（极致现实）
-- 制作：
-  极致JiZhi工作室
-- 前置：
-  无
-
-
-Extreme Reality: Aurora Tech Add-on
-（极致现实：极光科技附加）
-- 制作：
-  极致JiZhi工作室
-- 前置：
-  Extreme Reality
-
-
-
-========================================
-
-【科技 / 工业】
-
-========================================
-
-Mekanism
-（通用机械）
-
-
-Mekanism Generators
-（通用机械：发电机）
-- 前置：
-  Mekanism
-
-
-Mekanism Additions
-（通用机械：附加）
-- 前置：
-  Mekanism
-
-
-Mekanism Tools
-（通用机械：工具）
-- 前置：
-  Mekanism
-
-
-Mekanism: Ponder
-（通用机械：思索）
-- 前置：
-  Mekanism
-
-
-Create
-（机械动力）
-
-
-Sable
-（Sable）
-- 前置：
-  无
-
-
-Create:Aeronautics
-（机械动力：航空学）
-- 前置：
-  Create
-  Sable
-
-
-Immersive Engineering
-（沉浸工程）
-
-
-Flux Networks
-（通量网络）
-
-
-
-========================================
-
-【武器 / 军事】
-
-========================================
-
-TaCZ NeoForge Port
-（永恒枪械工坊：零 NeoForge 版）
-- 类型：
-  TaCZ 本体
-
-
-TaCZ Pack Upgrader
-（永恒枪械工坊：零 枪包格式转换工具）
-- 类型：
-  格式转换工具
-- 前置：
-  TaCZ NeoForge Port
-
-
-[TaCZ] Blue Archive Super Gun Pack
-（永恒枪械工坊：零 蔚蓝档案超级枪械包）
-- 类型：
-  枪包
-- 前置：
-  TaCZ NeoForge Port
-- 备注：
-  使用 TaCZPU 转换格式
-
-
-
-========================================
-
-【冒险 / 世界】
-
-========================================
-
-When Dungeons Arise
-（地下城崛起）
-
-
-YUNG's Better Dungeons
-（YUNG 更好的地下城）
-- 前置：
-  YUNG's API
-
-
-Born in Chaos
-（混沌诞生）
-
-
-The Twilight Forest
-（暮色森林）
-
-
-
-========================================
-
-【魔法 / 能力】
-
-========================================
-
-Origins NeoForge
-（起源 NeoForge）
-
-
-Touhou Little Maid
-（东方小女仆）
-
-
-Apotheosis
-（神化）
-- 前置：
-  Placebo
-
-
-
-========================================
-
-【农业 / 城镇 / 生存】
-
-========================================
-
-Farmer's Delight
-（农夫乐事）
-
-
-Kaleidoscope Cookery
-（森罗物语：厨房）
-
-
-Storage Drawers
-（储物抽屉）
-
-
-Serene Seasons
-（静谧四季）
-- 前置：
-  GlitchCore
-
-
-Supplementaries
-（补充）
-- 前置：
-  Moonlight Lib
-
-
-Sophisticated Backpacks
-（高级背包）
-- 前置：
-  Sophisticated Core
-
-
-MineColonies
-（我的殖民地）
-- 前置：
-  Structurize
-  BlockUI
-  Domum Ornamentum
-  Multi-Piston
-
-
-
-========================================
-
-【任务 / UI / 工具】
-
-========================================
-
-FTB Quests
-（FTB 任务）
-- 前置：
-  FTB Library
-
-
-KubeJS
-- 前置：
-  Rhino
-
-
-Patchouli
-（帕秋莉手册）
-
-
-REI
-（足够物品管理）
-
-
-Jade
-（玉）
-
-
-AppleSkin
-（苹果皮）
-
-
-Xaero's Minimap
-（Xaero 小地图）
-
-
-
-========================================
-
-【战斗 / 外观】
-
-========================================
-
-Better Combat
-（更好的战斗）
-- 前置：
-  Cloth Config API
-  playerAnimator
-
-
-Cosmetic Armor Reworked
-（外观盔甲重制）
-
-
-Blue Archive Halos - Pyroxene
-（蔚蓝档案光环 - 光辉石）
-
-
-YSM
-（Yes Steve Model）
-- 类型：
-  玩家模型 / 动画扩充
-- 状态：
-  标准版限定
-
-
-
-========================================
-
-【效能】
-
-========================================
-
-FerriteCore
-（铁氧体核心）
-
-
-ModernFix
-（现代修复）
-
-
-Entity Culling
-（实体剔除）
-
-
-ImmediatelyFast
-（立即快速）
-
-
-Sodium
-（钠）
-- 类型：
-  渲染 / 效能最佳化
-- 前置
-
-  
-========================================
-
-YUNG's API
-└── YUNG's Better Dungeons
-
-
-Sophisticated Core
-└── Sophisticated Backpacks
-
-
-Moonlight Lib
-└── Supplementaries
-
-
-GlitchCore
-└── 静谧四季
-
-
-Rhino
-└── KubeJS
-
-
-Placebo
-└── Apotheosis
-
-
-Structurize
-└── MineColonies
-
-
-BlockUI
-└── MineColonies
-
-
-Domum Ornamentum
-└── MineColonies
-
-
-Multi-Piston
-└── MineColonies
-
-
-Cloth Config API
-└── Better Combat
-
-
-playerAnimator
-└── Better Combat
-
-
-FTB Library
-└── FTB Quests
-
-
-========================================
-
-极致JiZhi工作室
-Extreme Reality Project
-
-========================================
-
+「现实改变命运，选择创造未来。」
