@@ -34,12 +34,13 @@ Extreme Studio｜极致JiZhi工作室
 
 基本信息
 
-项目| 内容
-整合包名称| 极致现实：命运走向
-英文名称| Extreme Reality: Destiny
-Minecraft版本| 1.21.1
-模组平台| NeoForge
-制作团队| Extreme Studio｜极致JiZhi工作室
+| 项目 | 内容 |
+| :--- | :--- |
+| 整合包名称 | 极致现实：命运走向 |
+| 英文名称 | Extreme Reality: Destiny |
+| Minecraft版本 | 1.21.1 |
+| 模组平台 | NeoForge
+| 制作团队 | Extreme Studio/极致JiZhi工作室 |
 
 ---
 
