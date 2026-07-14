@@ -44,7 +44,7 @@ Information
 
 Mod List
 
-# Core & Libraries
+## Core & Libraries
 
 | Mod | Description |
 | :--- | :--- |
@@ -63,7 +63,7 @@ Mod List
 
 ---
 
-# Performance & Utility
+## Performance & Utility
 
 | Mod | Description |
 | :--- | :--- |
@@ -79,7 +79,7 @@ Mod List
 
 ---
 
-# Combat & Equipment
+## Combat & Equipment
 
 | Mod | Description |
 | :--- | :--- |
@@ -96,41 +96,45 @@ Mod List
 
 ---
 
-Technology & Engineering
+## Technology & Engineering
 
-Mod| Description
-Create| Mechanical Automation
-Create Big Cannons| Large Cannon System
-Create Aeronautics| Aviation Expansion
-Create Diesel Generators| Diesel Power Generation
-Immersive Engineering| Industrial Engineering
-Flux Networks| Energy Network
-Mekanism| Advanced Technology
-Mekanism Generators| Power Generation
-Mekanism Tools| Advanced Tools
-Mekanism Additions| Additional Content
-
----
-
-Exploration & World Expansion
-
-Mod| Description
-MineColonies| Colony Management
-Twilight Forest| Dimension Adventure
-Dungeons Arise| Dungeon Expansion
-YUNG's Better Dungeons| Improved Dungeons
-Born in Chaos| Hostile Creature Expansion
-Structurize| Structure System
-Domum Ornamentum| Decoration System
+| Mod | Description |
+| :--- | :--- |
+| Create | Mechanical Automation |
+| Create Big Cannons | Large Cannon System |
+| Create Aeronautics | Aviation Expansion |
+| Create Diesel Generators | Diesel Power Generation |
+| Immersive Engineering | Industrial Engineering |
+| Flux Networks | Energy Network |
+| Mekanism | Advanced Technology |
+| Mekanism Generators | Power Generation |
+| Mekanism Tools | Advanced Tools |
+| Mekanism Additions | Additional Content |
 
 ---
 
-Food & Survival
+## Exploration & World Expansion
 
-Mod| Description
-Farmer's Delight| Farming Expansion
-Kaleidoscope Cookery| Cooking Expansion
-Serene Seasons| Seasonal System
+| Mod | Description |
+| :--- | :--- |
+| MineColonies | Colony Management |
+| Twilight Forest | Dimension Adventure |
+| Dungeons Arise | Dungeon Expansion |
+| YUNG's Better Dungeons | Improved Dungeons |
+| Born in Chaos | Hostile Creature Expansion |
+| Structurize | Structure System |
+| Domum Ornamentum | Decoration System |
+
+
+---
+
+## Food & Survival
+
+| Mod | Description |
+| :--- | :--- |
+| Farmer's Delight | Farming Expansion |
+| Kaleidoscope Cookery | Cooking Expansion |
+| Serene Seasons | Seasonal System |
 
 ---
 
